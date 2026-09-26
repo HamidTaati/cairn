@@ -1,0 +1,978 @@
+#+title: Reading Cairn
+
+~[open]~
+
+Take your time with this.
+
+Cairn is small. It is a record that carries direction across sessions
+that forget. Everything in it is one shape, appearing at three sizes.
+Once you see the shape, the rest follows.
+
+What follows is the whole of Cairn, stated plainly. The axioms, the
+laws, and the provisions are quoted in full. Each quote appears where
+it is needed. By the end, every one has been read, and the shape is
+visible.
+
+* The foundation
+
+Cairn rests on four natures, nine laws, and thirty-one necessities.
+The natures are what the system is made of. The laws are what follows.
+The necessities are what situations demand, and where their forms
+come from.
+
+Here they are together. Read them once. Everything after this is the
+same three things seen from different sides.
+
+** The natures
+
+> *A1. The session is episodic and forgets.*
+> A session begins, acts, ends. It does not persist.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+> Its continuity is established by the record. The core acknowledges
+> the plurality of custodians; it does not govern their relations.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+> *A4. Whatever is not in the record does not exist.*
+> Nothing depends on session memory.
+
+** The laws
+
+> *B1. Two kinds of authoring.*
+> The session authors proposals. The custodian authors decisions.
+
+> *B2. Every entry carries a token.*
+> The token carries the custodian's relation to the direction the
+> entry proposes.
+
+> *B3. The custodian's relation is distinguishable.*
+> The set of relations is finite. Each relation carries a distinction
+> no other relation carries.
+
+> *B4. Four acts.*
+> The custodian may choose, withdraw, and revise. The session may
+> revise directions the custodian has not engaged, or has withdrawn.
+
+> *B5. Authority boundary.*
+> The session may cause only the unengaged direction. An engaged
+> direction lies beyond the session by nature. The session may revise
+> directions the custodian has not engaged, or has withdrawn. The
+> custodian may set any relation.
+
+> *B6. The one-way door.*
+> The unengaged direction is the only direction with no incoming edge
+> from any other. Once a direction is engaged, it never returns to
+> unengaged.
+
+> *B7. Closure.*
+> An engaged direction is closed to sessions by nature. The closure
+> forbids a class of participant from revising the direction or from
+> creating a new entry on the same content. The custodian may lift
+> the closure, and by lifting it, opens the direction again.
+
+> *B8. Preservation is append-only.*
+> A session's last act is to preserve. No history is rewritten. What
+> came before is preserved.
+
+> *B9. Sovereignty.*
+> The custodian governs. The guide governs in full. Meta files govern
+> to the extent engaged. Unconfirmed content binds no one.
+
+** The provisions
+
+> *C1. Anchored.* The guide's nature proves the need, and the guide
+> provides a form — a very basic one. The meta shapes it.
+>
+> *C2. Named.* The guide's nature proves the need, and the guide asks
+> for the form. The meta provides it.
+>
+> *C3. Allowed.* The guide's nature permits the need. The custodian
+> provides the form, if the situation calls.
+>
+> *C4. Carried.* Another nature proves the need. The guide provides
+> the vessel. The other nature provides the form. The record
+> preserves it.
+
+The thirty-one necessities fall under these four, depending on which
+nature proved the need and who provides the form. They are named at
+the end of this reading, where they belong.
+
+Now the same three things, seen from the side where the reader stands.
+
+* The natures
+
+Start with A1.
+
+> *A1. The session is episodic and forgets.*
+> A session begins, acts, ends. It does not persist.
+
+A session is not a continuous thing. It comes into being, it does
+work, and it is gone. When it is gone, everything it held in mind is
+gone with it. It does not remember the last session, or the one
+before.
+
+Read from the work's side, A1 says: a session cannot carry the work.
+Read from the session's side, A1 says: I do not remember, and I will
+not. Both are the same fact.
+
+Something must carry the work. That is A2.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+> Its continuity is established by the record. The core acknowledges
+> the plurality of custodians; it does not govern their relations.
+
+A custodian is not episodic. A custodian is the role that carries the
+thread. When the custodian reads the record at the start of a session,
+the thread is unbroken — not in the custodian's memory, but in the
+record. The custodian knows the last session because the record knows
+it. When the custodian writes, they have already judged what they
+write. When they read, they re-encounter something they may have
+judged before.
+
+The custodian is transferable because continuity is established by
+the record, not by the person. A new custodian who inherits the
+record inherits the full state and can judge from it. The custodian
+may be one or many. The core acknowledges the plurality. It does not
+govern how custodians arrange themselves among themselves.
+
+Where does the custodian's continuity live? In the record.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The session cannot hold the direction. The custodian's memory is
+finite. But the work must survive. So there is a record.
+
+The record is persistent: it survives the session that wrote it and
+the custodian who keeps it. It is shared: more than one participant
+can read it and write to it. It is legible to a cold reader: a reader
+with no memory beyond the record can read it and understand what it
+says.
+
+And the record is the whole of what exists.
+
+> *A4. Whatever is not in the record does not exist.*
+> Nothing depends on session memory.
+
+If a fact is not written, there is no one who could have kept it. The
+session cannot. The custodian's memory is finite and personal. Only
+the record persists. Whatever must survive must be written.
+
+A4 is the floor. Everything else is built on it. Every mechanism in
+Cairn must explain itself, because there is no one present who can
+explain it. The record must be legible on its own.
+
+The four natures are not premises. They are the situation stated four
+times — from the session, the custodian, the record, and the rule
+that binds them.
+
+* Direction
+
+The work moves. It has a path — proposals become decisions, open
+questions become settled ones, some ways are taken and others are set
+aside.
+
+*Direction is that path.* It is the course the work is taking. It is
+what the custodian chooses as they walk through the record.
+
+Direction has two scales. At one entry, the direction is the
+custodian's relation to that entry. Across the record, the direction
+is the pattern of those choices — the whole path the custodian has
+walked. The two scales are the same fact seen at two sizes.
+
+Direction is the ground because of A4.
+
+> *A4. Whatever is not in the record does not exist.*
+
+The session forgets. The work must survive. If the direction lives
+only in memory, it dies with the memory. If it lives only in a
+session's head, it does not survive the session. So the direction
+must be visible in the record. That is what the token does.
+
+* The token — the pivot at its smallest
+
+The record carries direction through tokens. A token is a small
+marker at the start of an entry. It says one thing: the custodian's
+relation to the direction the entry proposes.
+
+> *B2. Every entry carries a token.*
+> The token carries the custodian's relation to the direction the
+> entry proposes.
+
+Every entry — no matter what it says, no matter who wrote it, no
+matter what kind of work it is — carries a token. The token sits at
+the start of the entry.
+
+Without the token, a reader cannot tell whether the custodian has
+engaged the entry, and how. The reader cannot tell whether the entry
+is a proposal waiting for judgment, or a decision already made, or a
+direction that was released. The token is what makes the direction
+visible.
+
+** The token is a pivot
+
+A pivot is a point where two things meet.
+
+Above the token — what makes it meaningful. The laws say what the
+token means, what may happen to it, and what may not. Without the
+laws, the token is an empty mark.
+
+Below the token — what it makes possible. The situations, the
+necessities, the formations, and the templates unfold from the
+token. The token bounds them; they give the token its reach.
+
+The token is not the whole of Cairn. It is the point where the whole
+of Cairn touches, at its smallest size.
+
+** Who may set a token
+
+> *B1. Two kinds of authoring.*
+> The session authors proposals. The custodian authors decisions.
+
+B1 says who may set a token and who may not. The session's writing
+enters unengaged — a new entry written by a session carries ~[open]~.
+The custodian's writing enters engaged. A reader can tell them apart
+because the token names the kind.
+
+** How many tokens
+
+> *B3. The custodian's relation is distinguishable.*
+> The set of relations is finite. Each relation carries a distinction
+> no other relation carries.
+
+B3 says the token must be unambiguous. Five values, five
+distinctions, no overlap. The meta file chooses the finite set. In
+this instance, there are five tokens.
+
+- ~[open]~ — the direction is untouched. No custodian has engaged it.
+- ~[held]~ — the custodian holds this direction. It is in their
+  hands, being carried, being considered.
+- ~[approved]~ — the custodian approves this direction. They have
+  committed.
+- ~[blocked]~ — the custodian blocks this direction. They have
+  refused.
+- ~[reopened]~ — the custodian has released this direction. It was
+  engaged once. That relation is no longer in force. The direction is
+  available again, with the history that it was once engaged.
+
+** How the token changes
+
+> *B4. Four acts.*
+> The custodian may choose, withdraw, and revise. The session may
+> revise directions the custodian has not engaged, or has withdrawn.
+
+B4 says how a token changes. The custodian chooses a relation.
+Withdraws a relation. Revises content and sets a relation. The
+session revises content on a direction the custodian has not engaged
+or has withdrawn, without changing the relation.
+
+** Where the token's authority lies
+
+> *B5. Authority boundary.*
+> The session may cause only the unengaged direction. An engaged
+> direction lies beyond the session by nature. The session may revise
+> directions the custodian has not engaged, or has withdrawn. The
+> custodian may set any relation.
+
+The session can only cause ~[open]~. The custodian can cause any
+relation. The boundary is not a rule the custodian enforces. It is
+what the token's nature is.
+
+The session's permission is not a separate rule. It is a consequence
+of the custodian's relation. The word does the work. A reader who
+sees ~[held]~ knows the direction is in someone else's hands, and does
+not need a rule telling them to stay out.
+
+** The one-way door
+
+> *B6. The one-way door.*
+> The unengaged direction is the only direction with no incoming edge
+> from any other. Once a direction is engaged, it never returns to
+> unengaged.
+
+~[open]~ means never touched. ~[reopened]~ means touched, then
+released. These are different facts. A reader who sees ~[open]~ knows
+the custodian has never engaged the entry. A reader who sees
+~[reopened]~ knows the custodian engaged once and released.
+
+Once a direction is engaged, it never returns to ~[open]~. The one-way
+door holds.
+
+** Closure
+
+> *B7. Closure.*
+> An engaged direction is closed to sessions by nature. The closure
+> forbids a class of participant from revising the direction or from
+> creating a new entry on the same content. The custodian may lift
+> the closure, and by lifting it, opens the direction again.
+
+An engaged direction is closed. This is not a tool the custodian
+picks up. It is what engagement is. When the custodian sets a
+relation, the direction is closed to sessions by that fact. The
+custodian may lift it, and by lifting, opens the direction again.
+
+** Two rules of the token
+
+Two rules keep the token the only marker of direction in the record.
+
+*Rule one: every entry is wrapped in a token.*
+
+Whatever the situation, whatever the shape of the content, whatever
+the workflow — the entry is wrapped in a token. The token comes
+first. The content comes after.
+
+A session writes content. When the session is done, the content is
+wrapped in ~[open]~. The token is not part of the content. It is the
+wrapper. The custodian reads the entry. If they take it up, they
+change the token to ~[held]~. The content does not change. Only the
+token changes.
+
+An entry without a token does not exist. No token, no entry.
+
+*Rule two: the token words are reserved.*
+
+The five token words belong to the tokens. They are reserved. No
+field inside an entry uses them. No field inside an entry is called
+*state*.
+
+The token is the only marker of direction in the record. If content
+fields also carried state-like words, the reader could not tell which
+was the token. So the token words stay reserved. They mark the token
+and nothing else.
+
+When content needs to say what kind of thing it is, or what decision
+was made, or what phase the work is in, it uses its own vocabulary.
+*Kind: proposal.* *Decision: accepted.* *Phase: review.* Never a
+token word. Never the word *state*.
+
+** The entry's shape
+
+An entry is a block. It has three parts: a token line, metadata
+lines, and content.
+
+#+BEGIN_EXAMPLE
+~[open]~
+ID: cairn-setup-section
+By: session
+At: 2026-09-26
+
+The setup section needs a revision.
+#+END_EXAMPLE
+
+The token at the top. The metadata in the middle. The content at the
+bottom. A reader sees the token first and knows where the direction
+stands. Then the metadata, and knows who wrote it and when. Then the
+content, and knows what it says.
+
+* What unfolds from the token
+
+The token is the pivot at its smallest. Everything else unfolds from
+it.
+
+A situation is a scene of work. A session writes an entry and wraps
+it in ~[open]~ — that is a proposal-situation. A custodian reads the
+entry and sets a token — that is a judgment-situation. One session
+ends and another begins — that is a handoff-situation.
+
+Every situation is bounded by tokens. The token marks the edge of the
+scene. It says: here the situation began, here it ends, this is what
+may pass through.
+
+A situation demands conditions to proceed. A proposal demands that
+the session know its role, that the token mean what it says, that the
+custodian has not touched the entry. Those conditions are the
+necessities.
+
+And when a kind of situation recurs — many proposals, many judgments,
+many handoffs — it is worth naming the kind. The name is a formation.
+A formation carries a name, a structure, and the bundle of
+necessities that kind of situation demands.
+
+** The dual relation
+
+A formation is the name of a kind of situation *and* the bundle of
+necessities that kind demands. The two are not separate lists. They
+are one fact: *this kind of situation demands these conditions*.
+
+To know the formation is to know the necessities. To know the
+necessities is to know the formation. To have both is to have the
+direction answered.
+
+** The chain of interpretation
+
+The token is a direction. The direction alone is opaque. To read it,
+the reader follows a chain. Each step interprets the previous one.
+
+**Direction.** The token. The custodian's relation to what is here.
+
+**Situation.** What scene the direction sits in.
+
+**Necessities.** What that scene demands.
+
+**Formation.** The name for the kind of scene, carrying both the
+scene and its conditions.
+
+**Templates.** The shapes that give the direction a body.
+
+Read forward, the chain is the reading of a token. Read backward, it
+is how a session writes.
+
+* The basic form — the pivot at its middle size
+
+The chain is walkable because every step is held in the same form.
+The form is the *token-marked entry*: a token, metadata, content.
+
+The token-marked entry is the pivot at its middle size. Above it —
+the four stances that approach it. Below it — the chain that unfolds
+from it.
+
+The form says only what must be true for any direction to be legible.
+The token says where it stands. The metadata says who wrote it and
+when. The content says what. Nothing else is required.
+
+The form is universal. Every mode uses the same form.
+
+- An *Anchored* provision lives in an entry. The form is basic,
+  provided by the guide. The meta shapes it.
+- A *Named* provision lives in an entry. The form is chosen by the
+  instance.
+- An *Allowed* provision lives in an entry. The form is the
+  custodian's practice.
+- A *Carried* provision lives in an entry. The form comes from
+  another system.
+
+The mode changes who provides the form. The entry carries the form in
+every case. That is what makes the four modes comparable — they are
+all expressed in the same vessel.
+
+That is also what makes the chain of interpretation walkable across
+natures. A reader does not have to switch languages between
+direction and situation, or between necessities and templates. Every
+step is read from the same kind of thing.
+
+A session walks the chain to write. It picks templates, finds the
+formation, sees the necessities, names the situation, wraps the
+entry in ~[open]~.
+
+A custodian walks the chain to judge. They see the token, read the
+content, know the situation, see what it demands, and choose a
+relation.
+
+A cold reader walks the chain to understand. They read the tokens,
+follow the content, and know where the work stands.
+
+* The provisions, in full
+
+A situation demands conditions to proceed. The conditions are the
+necessities. Each is made true by a provision — a practical choice.
+The provision takes one of four modes, distinguished by where the
+form comes from.
+
+Cairn's own nature does four things at once. It *anchors* the needs
+its own natures prove, providing basic forms the meta will shape. It
+*names* the needs its own natures prove but whose forms it cannot
+choose, asking the instance to answer. It *permits* the needs that
+situations demand without its own natures proving them, leaving the
+custodian to provide or not. It *acknowledges* other natures —
+natures it does not own — by providing the vessel in which their
+directions are carried, recorded, and made legible.
+
+** C1. Anchored
+
+The guide's nature proves the need, and the guide provides a form —
+a very basic one. The meta shapes it into a walkable path and may
+build more complex formations on top, using this basic form.
+
+*** C1.1 Continuity
+
+A session writes. It ends. The next session begins cold. For the work
+to reach the next session, something must survive the gap.
+
+> *A1. The session is episodic and forgets.*
+> A session begins, acts, ends. It does not persist.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The guide's nature proves the need. The guide provides a basic form:
+the direction must be written. The form is minimal. The meta shapes
+it — the record is files, the files are tracked, commits are
+append-only, files are read in a known order.
+
+*** C1.2 Authority
+
+A direction must have a chooser. Without one, the direction is not
+chosen — it drifts.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+> *B1. Two kinds of authoring.*
+> The session authors proposals. The custodian authors decisions.
+
+The guide's nature proves the need. The guide provides a basic form:
+there is one who decides. The meta shapes it — the custodian is a
+role, the role is held by a person, the role can transfer, the
+transfer is recorded.
+
+*** C1.3 Lifecycle
+
+The custodian's relation must be distinguishable and finite.
+
+> *B3. The custodian's relation is distinguishable.*
+> The set of relations is finite. Each relation carries a distinction
+> no other relation carries.
+
+The guide's nature proves the need. The guide provides a basic form:
+the relations are distinguishable. The meta names the five tokens and
+shapes them into the lifecycle.
+
+*** C1.4 Meaning
+
+The tokens must be interpretable.
+
+> *B2. Every entry carries a token.*
+> The token carries the custodian's relation to the direction the
+> entry proposes.
+
+The guide's nature proves the need. The guide provides a basic form:
+each token carries one meaning. The meta states the meanings and
+reserves the words.
+
+*** C1.5 One-way door
+
+Engagement must be irreversible.
+
+> *B6. The one-way door.*
+> The unengaged direction is the only direction with no incoming edge
+> from any other.
+
+The guide's nature proves the need. The guide provides a basic form:
+an engaged direction never returns to unengaged. The meta shapes it
+into the rule that reopened is distinct from open — that a released
+direction carries the history of having been engaged.
+
+*** C1.6 Closure
+
+A relation may close a direction to a class.
+
+> *B7. Closure.*
+> An engaged direction is closed to sessions by nature.
+
+The guide's nature proves the need. The guide provides a basic form:
+an engaged direction is closed. The meta shapes it into the closure
+and the custodian's lift.
+
+*** C1.7 Preservation
+
+What came before must remain legible.
+
+> *B8. Preservation is append-only.*
+> A session's last act is to preserve. No history is rewritten.
+
+The guide's nature proves the need. The guide provides a basic form:
+no history is rewritten. The meta shapes it — the record, the
+append-only rule, the commit.
+
+*** C1.8 Sovereignty
+
+Governance must have a single source. The source is the custodian
+role, not the person who holds it.
+
+> *B9. Sovereignty.*
+> The custodian governs. The guide governs in full. Meta files govern
+> to the extent engaged. Unconfirmed content binds no one.
+
+The guide's nature proves the need. The guide provides a basic form:
+the custodian governs. The meta shapes it — who the custodian is, how
+the role is held, how the guide and meta relate.
+
+** C2. Named
+
+The guide's nature proves the need, and the guide asks for the form.
+The meta provides it.
+
+*** C2.1 Identity
+
+An entry must remain referable across change.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+> *B8. Preservation is append-only.*
+> No history is rewritten.
+
+The guide's nature proves the need. Custodianship transfers. History
+is preserved. The guide asks for the form. The meta provides it —
+slugs in metadata, chosen once, preserved across revisions and moves.
+
+*** C2.2 Provenance
+
+The record must show who caused what.
+
+> *B1. Two kinds of authoring.*
+> The session authors proposals. The custodian authors decisions.
+
+> *B5. Authority boundary.*
+> The session may cause only the unengaged direction.
+
+The guide's nature proves the need. The guide asks for the form. The
+meta provides it — the `By` field, the custodian's name in custody,
+the transfer record.
+
+*** C2.3 Relations
+
+Entries may connect.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The guide's nature proves the need. A record is not a pile. The guide
+asks for the form. The meta provides it — links, dependencies,
+supersessions.
+
+*** C2.4 Time
+
+The record may carry temporal facts.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The guide's nature proves the need. A reader must know when. The
+guide asks for the form. The meta provides it — dates, deadlines,
+sequences.
+
+*** C2.5 Scope
+
+The record may have boundaries.
+
+> *A3. There is a record.*
+
+> *A4. Whatever is not in the record does not exist.*
+
+The guide's nature proves the need. A record with no boundaries
+cannot be a legible whole. The guide asks for the form. The meta
+provides it — files with purposes, placement rules, a reading order.
+
+*** C2.6 Memory
+
+What persists and what does not must be distinguishable.
+
+> *A1. The session is episodic and forgets.*
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+The guide's nature proves the need. The session does not persist, the
+record persists, and the custodian's continuity is established by the
+record. The guide asks for the form. The meta provides it — the
+record, the resume, the handoff.
+
+*** C2.7 Context
+
+The surroundings of an entry may matter.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The guide's nature proves the need. Legibility depends on what
+surrounds. The guide asks for the form. The meta provides it — files,
+neighbours, links.
+
+*** C2.8 Evolution
+
+The system may change over time.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+> *B9. Sovereignty.*
+> Meta files govern to the extent engaged.
+
+The guide's nature proves the need. The custodian may change, and
+meta files may change. The guide asks for the form. The meta provides
+it — amendment, adoption, retirement.
+
+** C3. Allowed
+
+The guide's nature permits the need that different situations demand.
+The guide provides no form. The custodian provides it, if the
+situation calls.
+
+*** C3.1 Argument
+
+Proposals may be structured.
+
+> *B4. Four acts.*
+> The custodian may choose, withdraw, and revise.
+
+The guide's nature permits this. The guide does not ask for a
+structure. It permits the custodian to provide one — claim, support,
+objection, response — if proposals need structure to be judged.
+
+*** C3.2 Attention
+
+The custodian must direct focus.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+The guide's nature permits this. A custodian is finite. The guide
+does not ask for a method. The custodian provides the form, if the
+workflow grows past what can be held in mind.
+
+*** C3.3 Retrieval
+
+The record must be findable.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The guide's nature permits this. Legible records may grow. The guide
+does not ask for a retrieval method. The custodian provides the form,
+if the record grows past what can be read in a sitting.
+
+*** C3.4 Collaboration
+
+Multiple participants may propose.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+The guide's nature permits this. Custodians and sessions may be many.
+The custodian provides the form, if more than one session works on
+the record.
+
+*** C3.5 Error
+
+Failures must be recognizable.
+
+> *B8. Preservation is append-only.*
+> No history is rewritten.
+
+The guide's nature permits this. The record is preserved, so a
+mistake can be corrected without erasing the past. The custodian
+provides the form, if mistakes are possible and worth naming.
+
+*** C3.6 Recovery
+
+Lost work must be restorable.
+
+> *B8. Preservation is append-only.*
+> No history is rewritten. What came before is preserved.
+
+The guide's nature permits this. History is preserved. The custodian
+provides the form, if history is available and restoration is a real
+need.
+
+*** C3.7 Onboarding
+
+New participants must begin.
+
+> *A1. The session is episodic and forgets.*
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The guide's nature permits this. New sessions begin cold. The
+custodian provides the form, if new readers arrive.
+
+*** C3.8 Feedback
+
+Proposals and decisions may exchange.
+
+> *B1. Two kinds of authoring.*
+> The session authors proposals. The custodian authors decisions.
+
+The guide's nature permits this. Two kinds of authoring, and one
+responds to the other. The custodian provides the form, if the dyad
+needs to respond to itself.
+
+** C4. Carried
+
+Another nature proves the need, with different situations. The guide
+provides the vessel — the basic form of five tokens and the recording
+of them. That basic form makes the walkable path reachable for those
+situations, and recording preserves them.
+
+*** C4.1 Formality
+
+Formal artifacts may be attached as content.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+> *A4. Whatever is not in the record does not exist.*
+
+The need is proven by the nature of formal methods. The guide
+provides the vessel — an entry carries the artifact and the
+direction. The formal language provides the form. The record carries
+it.
+
+*** C4.2 Automation
+
+Views and reports may be generated.
+
+> *A4. Whatever is not in the record does not exist.*
+
+The need is proven by the nature of generation. The guide provides
+the vessel — an entry records what was generated. The generator
+provides the form. The record carries it.
+
+*** C4.3 Inter-custodian relations
+
+Custodians may arrange their affairs among themselves.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+> The core acknowledges the plurality of custodians; it does not
+> govern their relations.
+
+The need is proven by the plurality of custodians — a nature Cairn
+acknowledges but does not own. The guide provides the vessel — an
+entry records the arrangement. The custodians provide the form. The
+core does not govern how the single source is achieved when the role
+is held by many. That is the custodians' own work.
+
+*** C4.4 Distributed trust
+
+Custodians may arrange trust among themselves.
+
+> *A2. The custodian is continuous, transferable, and may be one or
+> many.*
+
+The need is proven by the nature of distributed trust. The guide
+provides the vessel — an entry records the verification. The trust
+model provides the form. The record carries it.
+
+*** C4.5 Real-time coordination
+
+Simultaneity may be recorded after the fact.
+
+> *A4. Whatever is not in the record does not exist.*
+
+The need is proven by the nature of concurrency. The guide provides
+the vessel — an entry records what happened. The coordination method
+provides the form. The record carries the trace.
+
+*** C4.6 Complexity
+
+Complexity may be measured and the measure recorded.
+
+> *A3. There is a record.*
+> It is persistent, shared, and legible to a cold reader.
+
+The need is proven by the nature of complexity. The guide provides
+the vessel — an entry records the measure. The measure's method
+provides the form. The record carries it.
+
+*** C4.7 Emergence
+
+Novel properties may be noted, not detected.
+
+> *A4. Whatever is not in the record does not exist.*
+
+The need is proven by the nature of emergence. The guide provides the
+vessel — an entry records the noting. The custodian provides the
+note. The record carries it.
+
+** The vessel is the same in every mode
+
+A token, metadata, content. The token carries the direction. The mode
+says where the form comes from. The vessel carries the form wherever
+it comes from.
+
+That is what makes the chain walkable across natures. Direction →
+situation → necessities → formation → templates, every step held in
+the same form.
+
+* The threshold — the pivot at its largest
+
+The token is the pivot at its smallest. The basic form is the pivot
+at its middle. At the largest scale, the pivot is the threshold
+between the guide and the meta.
+
+The guide contains the axioms, the laws, and the modes of provision.
+It states the natures. It states what follows. It states where each
+necessity finds its form. And it provides one universal thing: the
+vessel.
+
+The meta is the practical interpretation. It chooses the tokens. It
+chooses the files. It shapes the Anchored forms into walkable paths.
+It provides the forms for the Named necessities. It practices the
+Allowed ones. It records the traces of the Carried ones.
+
+The threshold is where the guide stops and the meta begins. Above
+it — the guide, the natures, the laws. Below it — the meta, the
+practical forms, the working record.
+
+At the threshold, the four stances meet. The token-marked entry is
+the vessel they all use. The token is the pivot they all pass
+through.
+
+Most systems choose one posture. Total specification. Total silence.
+Hidden choices. Cairn takes four stances at once and names them. For
+some needs, Cairn provides a basic form. For others, it proves the
+need and asks for the form. For others, it permits the need. For
+others, it acknowledges the need and provides only the vessel.
+
+The distinctiveness is not that Cairn provides a little and asks for
+a lot. The distinctiveness is that Cairn *knows which is which*,
+*says so*, and *makes the division legible*. A reader can see, for
+each necessity, which nature proved it, who provides the form, and
+where the form lives. Nothing is hidden. Nothing is over-claimed.
+
+* The whole
+
+Cairn is a record that carries direction across sessions that forget.
+
+The situation: work continues, and sessions do not. The natures: A1,
+A2, A3. The rule: A4. Everything follows.
+
+The token is the smallest marker. Five tokens, one line at the top of
+each entry. The token words are reserved. The token is the pivot at
+its smallest size.
+
+The entry is a block: token, metadata, content. The basic form is the
+pivot at its middle size. It is the vessel in which every provision,
+whatever its mode, is carried.
+
+The threshold between guide and meta is the pivot at its largest
+size. It is where the four stances meet and the chain of
+interpretation becomes walkable.
+
+A situation is a scene of work. The token bounds it. The formation
+names it. The necessities sustain it. The laws govern it.
+
+A formation names a kind of situation and bundles the necessities
+that kind demands. The two are one fact. Formations are provisional.
+They grow by recurrence.
+
+The necessities are what situations demand. Thirty-one of them. Four
+modes: Anchored, Named, Allowed, Carried. Each mode says where the
+form comes from.
+
+The laws hold the whole structure together. Two kinds of authoring.
+Every entry carries a token. The relation is distinguishable. Four
+acts. The authority boundary. The one-way door. Closure.
+Preservation. Sovereignty.
+
+The session forgets. The custodian is continuous. The record is the
+medium. The record rule is the floor. From these four, everything
+else follows.
+
+And the work is always, at bottom, in situations — marked by tokens,
+sustained by necessities, patterned by formations, wrapped in
+content. The token is the pivot. The basic form is the pivot. The
+threshold is the pivot. One pivot, three sizes, one picture.
+
+Above the pivot: what makes it meaningful. Below the pivot: what it
+makes possible. The pivot is where the two faces meet. It is where
+the guide stops and the meta begins. It is where the work becomes
+walkable.
+
+Welcome to Cairn.
