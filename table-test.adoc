@@ -1,0 +1,101 @@
+
+= Table Examples
+
+== 1. Simple Table
+
+|===
+| Name | Age | City
+
+| Alice
+| 30
+| New York
+
+| Bob
+| 25
+| London
+
+| Carol
+| 35
+| Tokyo
+|===
+
+== 2. Header Row (with options)
+
+[options="header"]
+|===
+| Name | Age | City
+
+| Alice | 30 | New York
+| Bob   | 25 | London
+| Carol | 35 | Tokyo
+|===
+
+== 3. Column Alignment
+
+[cols="<,^,>", options="header"]
+|===
+| Left | Center | Right
+
+| Alice | 30 | New York
+| Bob   | 25 | London
+| Carol | 35 | Tokyo
+|===
+
+== 4. Cell Formatting
+
+[options="header"]
+|===
+| Element | Example
+
+| Bold | *bold text*
+| Italic | _italic text_
+| Monospace | `code`
+| Link | https://example.com[Example]
+|===
+
+== 5. Colspan and Rowspan
+
+[cols="1,1,1", options="header"]
+|===
+| Column 1 | Column 2 | Column 3
+
+2+| Spans two columns | Cell
+| Cell 1 | Cell 2 | Cell 3
+
+.2+| Spans two rows
+| Cell A | Cell B
+| Cell C | Cell D
+|===
+
+== 6. Nested Formatting
+
+[cols="1,2", options="header"]
+|===
+| Feature | Status
+
+| Bold | *Works*
+| Italic | _Works_
+| Code | `works`
+| Mixed | *Bold _and italic_ together*
+|===
+
+== 7. Table with Caption
+
+.Table Caption Example
+[options="header"]
+|===
+| ID | Description
+| 001 | First item
+| 002 | Second item
+| 003 | Third item
+|===
+
+== 8. CSV Table
+
+[format="csv", options="header"]
+|===
+Name,Age,City
+Alice,30,New York
+Bob,25,London
+Carol,35,Tokyo
+|===
